@@ -1,0 +1,6 @@
+{
+  "name": "SyncSpend",
+  "description": "Real-time cross-device collaborative expense tracker with live multi-device ledger sync, budgeting, category insights, and offline-first Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
